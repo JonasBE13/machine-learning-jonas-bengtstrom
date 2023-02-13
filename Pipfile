@@ -12,6 +12,7 @@ scipy = "*"
 ipykernel = "*"
 black = "*"
 plotly = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
